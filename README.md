@@ -18,9 +18,9 @@ CFL is a simple userscript that allows the copy of a [FixupX](https://github.com
 
 ## How to Use
 
-- Copy timestamped URL: `Ctrl` + `Left Alt` + `F`
+- `Ctrl` + `Left Alt` + `F`, if in a tweet's page
   
   _OR_
-- Click the button in the lower-right corner of a tweet
+- Click the button in the lower-right corner of the tweet
 
 ![](img/preview_2.jpg)
