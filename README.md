@@ -1,7 +1,7 @@
 ![](img/icon.png)
 # X/Twitter - Copy FixupX Link
 
-CFL is a simple userscript that allows the use of a keyboard shortcut to copy a [FixupX](https://github.com/FixTweet/FxTwitter) link to a tweet. FixupX provides an improved sharing experience for tweets that contain pictures or videos in some social media platforms.
+CFL is a simple userscript that allows the copy of a [FixupX](https://github.com/FixTweet/FxTwitter) link to a tweet, either via keyboard shortcut or a button in the tweet. FixupX provides an improved sharing experience for tweets that contain pictures or videos in some social media platforms.
 
 ## Features
 
@@ -18,4 +18,9 @@ CFL is a simple userscript that allows the use of a keyboard shortcut to copy a 
 
 ## How to Use
 
-- Copy timestamped URL: `Ctrl` + `Left Alt` + `F` 
+- Copy timestamped URL: `Ctrl` + `Left Alt` + `F`
+  
+  _OR_
+- Click the button in the lower-right corner of a tweet
+
+![](img/preview_2.jpg)
